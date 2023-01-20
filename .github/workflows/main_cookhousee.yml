@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'cookhousee'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BEE9767853244959F599E81E89F7782 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_862271C47B914C09BD4F6512DB21CACC }}
           package: .
