@@ -22,6 +22,8 @@ Static Web App URL : https://purple-glacier-0633a8010.2.azurestaticapps.net
 
 App Services URL : https://cookhousee.azurewebsites.net
 
+Demo Video URL : https://drive.google.com/drive/folders/1ORis-lqp1c1j0vDk6eA_mz4sl1y0OvBk?usp=sharing
+
 ## Home
 ![WhatsApp Image 2023-01-21 at 1 07 11 PM](https://user-images.githubusercontent.com/112747330/213849269-2b66151d-3aa3-4c64-88ca-af5be065b1c3.jpeg)
 ![WhatsApp Image 2023-01-21 at 1 07 07 PM](https://user-images.githubusercontent.com/112747330/213849282-2aef6c31-79ba-4c19-a0ab-1600ca2c0a2d.jpeg)
